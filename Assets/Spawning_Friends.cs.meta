@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f18168677c70c5446a8075d018ac5936
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - friend_material: {fileID: 2100000, guid: 24b93e4c5dddd0245b5dd40697461c98, type: 2}
+  - enemy_material: {fileID: 2100000, guid: b171cdf1dae55ee47aa390f9d977d454, type: 2}
+  - friend_light_material: {fileID: 2100000, guid: e3572147004bd71448aa0328bddc15da,
+      type: 2}
+  - enemy_light_material: {fileID: 2100000, guid: cfcd7b4397115b0418f0c97261df2b42,
+      type: 2}
+  - damaging_light_material: {fileID: 2100000, guid: 4ec38f377997ef348bea6ff45adc9ef5,
+      type: 2}
+  - healing_material: {fileID: 2100000, guid: dfb0b715e96fc4445ae7e34fa3048be7, type: 2}
+  - player_transform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
